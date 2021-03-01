@@ -1,3 +1,28 @@
-body {
-    background-color: red;
+
+main {
+    display:flex;
+    flex-direction: column;
+
 }
+
+header {
+    display:flex;
+    flex-direction: column;
+    height: 450px;
+    width: 850px;
+}
+
+footer {
+    display:flex;
+    flex-direction:row;
+    height:324`px;
+    width 850px;
+
+}
+
+.space {
+    height: 450px;
+    width: 850px;
+
+}
+
